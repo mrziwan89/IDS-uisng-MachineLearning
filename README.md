@@ -28,3 +28,6 @@ run the code type `streamlit run Code(localhost).py` to deploy on localhost
 
 ## Important Links
 Also attaching a [presentation](https://github.com/mrziwan89/IDS-uisng-MachineLearning/blob/main/Presentation.pptx) of this project that I made as my final year project.
+
+## Preview
+[streamlit-fyp-2022-07-15-12-07-15.webm](https://user-images.githubusercontent.com/54596352/179170953-921d569d-f7ab-4a27-92b0-d786712f4372.webm)
