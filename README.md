@@ -6,11 +6,21 @@
 ## Pre-requisites
 * Python virtualenv
 * pip
-* TensorFlow `python3 -m pip install tensorflow`
+* TensorFlow `pip install tensorflow-cpu`
 * Pandas `pip install pandas`
 * NumPy `pip install numpy`
 * scikit-learn `pip install scikit-learn`
 * Keras `pip install keras`
 * Streamlit `pip install streamlit`
+* Dataset [kddcup.data_10_percent.gz](http://kdd.ics.uci.edu/databases/kddcup99/kddcup.data_10_percent.gz). For more details about [this dataset](http://kdd.ics.uci.edu/databases/kddcup99/task.html)
 
 *Check all the pre-requisites fullfilled in your environment by `pip freeze`*
+
+## Run Code
+`py [filename].py` to check validation score on the given dataset. 
+
+## Deployment
+To deploy the code type `streamlit run [filename].py` on localhost
+
+## Important Links
+Also attaching a [presentation] of this project that I made as my final year project.
