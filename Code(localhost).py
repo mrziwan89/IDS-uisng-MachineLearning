@@ -387,5 +387,5 @@ with st.echo():
     print("Validation score: {}".format(score))
     st.header("Accuracy: " + "{:.3f}".format(score*100, ))
     #C:\Users\Razor\.keras\datasets\kddcup.data_10_percent.gz
-    print('FINNISH')
-    st.write('FINNISH')
+    print('FINISH')
+    st.write('FINISH')
