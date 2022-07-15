@@ -17,10 +17,14 @@
 *Check all the pre-requisites fullfilled in your environment by `pip freeze`*
 
 ## Run Code
-`py [filename].py` to check validation score on the given dataset. 
+>First open the folder having the file and start virtualenv and install all the pre-requisites then
+
+run `py Code(Run).py` to check validation score on the aforementioned reduced dataset. 
 
 ## Deployment
-To deploy the code type `streamlit run [filename].py` on localhost
+>First open the folder having the file and start virtualenv and install all the pre-requisites then
+
+run the code type `streamlit run Code(localhost).py` to deploy on localhost
 
 ## Important Links
-Also attaching a [presentation] of this project that I made as my final year project.
+Also attaching a [presentation](https://github.com/mrziwan89/IDS-uisng-MachineLearning/blob/main/Presentation.pptx) of this project that I made as my final year project.
